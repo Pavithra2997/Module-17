@@ -94,5 +94,6 @@ if __name__ == "__main__":
 
 ## OUTPUT
 <img width="739" height="471" alt="image" src="https://github.com/user-attachments/assets/91fcc5c2-0e86-4c80-b410-457f6a6a14a7" />
+
 ## RESULT
 Thus a Python program to demonstrate the adjacency list representation of the graph was verified successfully.
